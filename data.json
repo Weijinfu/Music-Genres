@@ -1,0 +1,16 @@
+{
+    "mapping": [
+        "genres\\blues",
+        "genres\\classical",
+        "genres\\country",
+        "genres\\disco",
+        "genres\\hiphop",
+        "genres\\jazz",
+        "genres\\metal",
+        "genres\\pop",
+        "genres\\reggae",
+        "genres\\rock"
+    ],
+    "labels": [],
+    "mfcc": []
+}
